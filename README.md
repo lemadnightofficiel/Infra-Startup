@@ -1,0 +1,1 @@
+Ce projet visait à concevoir une architecture réseau sécurisée et évolutive pour une start-up spécialisée dans la diffusion de films en ligne. L’entreprise devait s’installer dans de nouveaux locaux et structurer son infrastructure réseau afin de correspondre à ses besoins.
